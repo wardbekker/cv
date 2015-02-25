@@ -1,7 +1,5 @@
 # Personal data 
 
-<img src="http://blog.equanimity.nl/images/portrait.jpg" width="150px" align="right" style="border-radius:5px;" />
-
 - Name: Ward Bekker
 - Gender: Male
 - Date of Birth: 19/02/1978
@@ -12,13 +10,13 @@
 - Blog: http://blog.equanimity.nl
 - Github: https://github.com/wardbekker
 
-# Summary of qualifications 
+# Summary of qualifications
 
 - Developing software for nineteen years, over fifteen years professionally.
 - Experienced product owner, lead developer and scrum master in teams of up to seven members.
 -	Extensive experience within all aspects of software development (specifications, project management, backlog managment, estimating, coding, testing, deployment, interaction- and graphic design). 
 
-# Technical expertise  
+# Technical expertise
 
 - Languages: Erlang, Objective-C, Swift, Ruby, PHP, C#, Python, Javascript, all common internet technologies (XHTML, HTML, CSS etc).
 - Frameworks: OTP, Ruby on Rails, jQuery, Prototype, Zend, ASP.NET, Winforms .NET, MS ASP, Cocoa Touch, Sphinx Search, Lucene Solr, ElasticSearch, Hadoop. 
@@ -59,7 +57,7 @@ A selection of projects:
 
 Technologies: Erlang, PHP, iPhone development, Ruby on Rails, Python, Selenium, VMWare, Lucene Solr, Sphinx Search, SEO, MySQL, SVN, GIT, Interaction Design.
 
-## R&D Software developer - Radventure, Maarssen  
+## R&D Software developer - Radventure, Maarssen
 _jul 2004 - oct 2007_
 
 Main developer of an enterprise code generation IDE for ASP.NET called GenWise. 
@@ -71,7 +69,7 @@ Achievements:
 
 Technologies: ASP.NET / Winforms, NHibernate, MSSQL, C#, SVN, C++, RedGate ANTS profiler. 
 
-## Software developer - Tam Tam, Delft 
+## Software developer - Tam Tam, Delft
 
 _dec 2002 - jun 2004_
 
