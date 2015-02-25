@@ -14,7 +14,7 @@
 
 - Developing software for nineteen years, over fifteen years professionally.
 - Experienced product owner, lead developer and scrum master in teams of up to seven members.
--	Extensive experience within all aspects of software development (specifications, project management, backlog managment, estimating, coding, testing, deployment, interaction- and graphic design). 
+-	Extensive experience within all aspects of software development (specifications, project management, backlog managment, estimating, coding, testing, deployment, interaction- and graphic design).
 
 # Technical expertise
 
@@ -32,6 +32,7 @@
 _jun 2012 - present_
 
 A selection of projects:
+
 - Product owner and lead developer of Agigo.com, an accessible payment service for individual merchants build on e-money wallet infrastructure. (Erlang).
 - Product owner and mobile/backend developer of Searcle.com, a innovative mobile payment solution (iOS, RoR).
 - Product owner of Djuke.it, a mobile jukebox solution for bars and other entertainment venues (iOS, Erlang).
@@ -45,7 +46,8 @@ Technologies: Erlang, iOS/ObjectiveC, RubyOnRails, PHP.
 
 _nov 2007 - may 2012_
 
-A selection of projects: 
+A selection of projects:
+
 - Open-source contribution: Implemented first version of Erlang support for Travis-CI, a very popular and free hosted continuous integration platform. Used by well known Erlang projects like Basho’s Riak, Webmachine, Mochiweb and Elixer. 
 - Scrum master and technical lead of a new job classified platform. The system consolidated all VNU Media’s job classified sites like Intermediair and NationaleVacatureBank. Leading the team of seven developers who implemented the ‘Facet Search’ and the financial core of this platform (PHP, MySQL, Lucene/Solr, Hadoop).
 - Technical lead of a distributed multi browser, multi platform functional test setup at Hyves, at the time the biggest site of the Netherlands with over 250.000 page-views per day. Using Python, Selenium and VMWare infrastructure to assert correct functioning of the site for over 20+ different platform / browser combinations.
@@ -62,7 +64,8 @@ _jul 2004 - oct 2007_
 
 Main developer of an enterprise code generation IDE for ASP.NET called GenWise. 
 
-Achievements: 
+Achievements:
+
 - Developed WYSIWYG ASP.NET webform designer. At that time the only tool to have that technology next to MS Visual Studio.
 - Developed code generation technique that allowed for adding custom code without losing it on re-generation.
 - Increased performance considerably by applying advanced profiling techniques.
